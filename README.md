@@ -27,7 +27,7 @@
 - 项目会持续更新，不定时上传各种组件的最新稳定版或是测试版，可直接在系统选项中更新
 > 项目背景：灵感来源于[Mobox](https://github.com/olegos2/mobox)和[Winlator](https://github.com/brunodev85/winlator)等项目
 >
-> 本项目由我本人兴趣开发、更新与维护，如果在使用中遇到问题请在issue中提供bug反馈，非常感谢！
+> 本项目由我个人兴趣开发、更新与维护，如果在使用中遇到问题请在issue中提供bug反馈，非常感谢！
 
 <table align="center">
   <tr>
