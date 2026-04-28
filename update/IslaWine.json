@@ -5,5 +5,5 @@
   { "type": "DXVK", "verName": "1.10.3", "verCode": 1, "remoteUrl": "https://github.com/moze30/IslaWine/releases/download/packages/dxvk-1.10.3.imz" },
   { "type": "DXVK", "verName": "2.3.1", "verCode": 1, "remoteUrl": "https://github.com/moze30/IslaWine/releases/download/packages/dxvk-2.3.1.imz" },
   { "type": "DXVK", "verName": "2.7.1", "verCode": 1, "remoteUrl": "https://github.com/moze30/IslaWine/releases/download/packages/dxvk-2.7.1.imz" },
-  { "type": "x86_64-ine", "verName": "10.15-staging-wow64", "verCode": 1, "remoteUrl": "https://github.com/moze30/IslaWine/releases/download/packages/wine-10.15-staging-wow64.imz" }
+  { "type": "x86_64-wine", "verName": "10.15-staging-wow64", "verCode": 1, "remoteUrl": "https://github.com/moze30/IslaWine/releases/download/packages/wine-10.15-staging-wow64.imz" }
 ]
